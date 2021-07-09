@@ -1,0 +1,2 @@
+# WoTMUD
+Scripts for WoTMUD
