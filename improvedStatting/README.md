@@ -7,3 +7,5 @@ Before you use it, make certain you adjust the location in the trigger "Restat (
 enable_stat and disable_stat to quickly enable and disable this script.
 
 One additional alias to set your statweapon --> statweapon xxx. This will help remove / wield your weapon.
+
+Make certain you hold an oilstone/sandstone. In that case the script will try to mend scratched weapons automatically (mattock, claymore, staff). you can of course add your own weapon of choice there.
